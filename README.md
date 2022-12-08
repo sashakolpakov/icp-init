@@ -2,6 +2,8 @@
 
 Authors: Sasha Kolpakov (UniNe, Switzerland) & Michael Werman (HUJI, Israel)
 
+The paper is available as icp_init.pdf
+
 Some tests and examples of ICP initialization:
 
 under ideal conditions (icp_init_main_algorithm); with multiplicative noise (icp_init_mult_noise); with additive noise (icp_init_add_noise); with occlusions points added (icp_init_occluded_images).
